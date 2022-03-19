@@ -1,4 +1,4 @@
-# Homework1
+# Patika-React-Hw1
 
 getData() function takes a number parameter of type: user_id
 
